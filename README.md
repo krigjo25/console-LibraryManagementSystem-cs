@@ -1,9 +1,10 @@
 # LibraryManagementSystem
+A basic system that allows the user of the program to register a book.
 
-##  Overview
-A basic system which was created during a Couple's Programming session
-at getAcademy
-
+The project was created as an couple programming assignment for [Get Academy](https://getacademy.no)<br>
+Please respect and keep
+the [Academic Honesty Integerty](https://ctl.columbia.edu/resources-and-technology/resources/academic-integrity/) in
+mind.<br>
 
 ## Library management
 
@@ -30,3 +31,24 @@ egenskaper listet opp.
 ### BONUS:
 - Legg til mulighet for å skrive inn flere bøker eller filmer, her trenger man å ta i bruk lister!
 - Søke opp bøker !
+
+- ## Requirements
+- Visual Studio 2019 > / Rider 2020.3 >
+- .NET Core 8.0
+
+## Installation
+1. Clone the repository
+2. ```shell script
+   git clone https://github.com/krigjo25/Console-console-LibraryManagementSystem-cs
+   ```
+3. Open the project in Visual Studio
+4. Run the project
+5. Done!
+
+## License
+This application is under [The Unlicense](./LICENCE)
+
+## Notes from the developer
+Created with love for programming, thanks for reading.
+I hope you'll have a beautiful day as you are!,<br>
+@krigjo25
